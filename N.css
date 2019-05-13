@@ -1,0 +1,53 @@
+#box1 {
+    top: 500px;
+    height: 200px;
+    width: 100%;
+    background-color: #B9E257;
+    position: relative;
+}
+
+#box2 {
+    top: 500px;
+    height: 200px;
+    width: 100%;
+    background-color: #69ADE1;
+    position: relative;
+}
+
+#box3 {
+    top: 500px;
+    height: 200px;
+    width: 100%;
+    background-color: #B9E257;
+    position: relative;
+}
+
+
+#container {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    width: 700px;
+    height: 1500px;
+    position: relative;
+}
+
+#frameB {
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    background-color: #333333;
+    color: white;
+    bottom: 810px;
+    z-index: 10;
+}
+
+#frameT {
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    background-color: #333333;
+    color: white;
+    top: 510px;
+    z-index: 10;
+}
